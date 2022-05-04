@@ -1,2 +1,2 @@
 # Blog_CRUD
-Rest Controller for CRUD 
+Basic rest Controller for greeting using STS
